@@ -1,0 +1,10 @@
+[
+  {
+    "name":"query",
+    "duration":"2s"
+  },
+  {
+    "name":"exec",
+    "duration":"800ms"
+  }
+]
